@@ -15,9 +15,10 @@ TODO list
     - [If you are familiar with git and github](#familiar-with-git-and-github)
 - [Run this project](#available-scripts)
 - [Definitions](#definitions)
+
+
 ## How to contribute ? 
 
--------
 ### Not Familiar with Git and Github 
 
 If you are familiar with how Git & Github works , or would like to test another way of doing things , click [here](#familiar-with-git-and-github) 
